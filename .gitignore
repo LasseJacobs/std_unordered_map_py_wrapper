@@ -1,0 +1,5 @@
+# C binaries
+*.*o
+
+# Python stuff
+__pycache__/
